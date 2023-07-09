@@ -1,6 +1,6 @@
 # Pass-Words
 
-All my passwords.... encrypted have fun.
+All my passwords.... encrypted inside another encrypted tarball, have fun :3.
 
 ~~~
 $ ./install.sh                 # install .password-store
