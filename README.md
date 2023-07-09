@@ -3,5 +3,7 @@
 All my passwords.... encrypted have fun.
 
 ~~~
-gpg --decrypt .password-store.tar.gpg | tar -x && mv .password-store ~/.password-store
+$ ./install.sh                 # install .password-store
+
+$ ./upload.sh <repicient name> # upload modified password store
 ~~~
